@@ -1,0 +1,13 @@
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\bin\Debug\netcoreapp3.1\puzzel1.exe
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\bin\Debug\netcoreapp3.1\puzzel1.deps.json
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\bin\Debug\netcoreapp3.1\puzzel1.runtimeconfig.json
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\bin\Debug\netcoreapp3.1\puzzel1.runtimeconfig.dev.json
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\bin\Debug\netcoreapp3.1\puzzel1.dll
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\bin\Debug\netcoreapp3.1\puzzel1.pdb
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\obj\Debug\netcoreapp3.1\puzzel1.csprojAssemblyReference.cache
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\obj\Debug\netcoreapp3.1\puzzel1.AssemblyInfoInputs.cache
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\obj\Debug\netcoreapp3.1\puzzel1.AssemblyInfo.cs
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\obj\Debug\netcoreapp3.1\puzzel1.csproj.CoreCompileInputs.cache
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\obj\Debug\netcoreapp3.1\puzzel1.dll
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\obj\Debug\netcoreapp3.1\puzzel1.pdb
+C:\Users\Olaf\Documents\fhict\S2\algoritmes\Puzzels\puzzel1\puzzel1\obj\Debug\netcoreapp3.1\puzzel1.genruntimeconfig.cache
